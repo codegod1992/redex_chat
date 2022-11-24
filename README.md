@@ -36,7 +36,8 @@ npm run dev
 And then point your browser to `localhost:3000`
 
 Note:
-This program comes with [redux-dev tools](https://github.com/gaearon/redux-devtools)
+This program comes with [
+-dev tools](https://github.com/sergeylavrov1010/redux-devtools)
 * To SHOW or HIDE the dev tool panel press ctrl+h
 * To change position press ctrl+m
 
